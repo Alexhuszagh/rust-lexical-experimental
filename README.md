@@ -1,6 +1,8 @@
 lexical
 =======
 
+**NOTE:** These changes have been integrated into Rust-lexical, and this repository is no longer necessary.
+
 High-performance numeric conversion routines for use in a `no_std` environment. This does not depend on any standard library features, nor a system allocator.
 
 **Similar Projects**
